@@ -17,7 +17,6 @@ Eager and highly motivated graduate seeking to leverage strong analytical and pr
 ## Education
 - **Scaler Academy**
   - Enrolled in Scaler Academy’s Full Stack Developer program.
-  - Successfully completed projects, including TicTacToe, ParkingLot, BookMyShow, Splitwise.
   - Mastering over 200 Data Structures and algorithms.
   - Crafting Database schema with proficiency.
   - Applying Java expertise through implementing design patterns and SOLID principles.
@@ -25,6 +24,9 @@ Eager and highly motivated graduate seeking to leverage strong analytical and pr
 - **Bachelor of Education(Computer Science)**
   - Chaitanya Bharathi Institute of Technology - Hyderabad.
   - CGPA: 6.79 (2016-2021).
+  - Successfully completed projects, including TicTacToe, ParkingLot, BookMyShow, Splitwise
+  - Designed a two-player game featuring unique attributes for each player, including strength, health, and defense values. Implemented a        dice mechanism for each player to roll and determine their defense capabilities. This project showcases my proficiency in game design,       algorithm implementation, and data structure utilization, highlighting my skills in creating interactive and engaging applications.
+    Link:https://github.com/Nikhilgarepalli/SwiggyInternship.git
 
 - **Intermediate (MPC)**
   - Sri Gayatri Junior College - Hyderabad.
